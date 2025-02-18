@@ -17,5 +17,5 @@
   <a href="https://discordapp.com/users/679694277105680448" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo" width="30.7%" /></a>
    <a href="https://x.com/quasystellar" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=(Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo" width="34%" /></a>
+  <img src="https://img.shields.io/static/v1?message=(Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo" width="33.5%" /></a>
 </div>
