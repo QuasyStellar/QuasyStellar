@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center" style="max-width: 90%; width: 100%;">
+  <img src="https://github.com/QuasyStellar/QuasyStellar/blob/main/neoreadme.png?raw=true" alt="top image" style="width: 100%; max-width: 100%; height: auto;" />
+</div>
 
-<!--
-**QuasyStellar/QuasyStellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="max-width: 90%; width: 100%; display: flex; justify-content: space-between; gap: 20px;">
+  <a href="https://github-readme-stats.vercel.app/api?username=quasystellar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=true&order=1" style="flex: 1;">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=quasystellar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=true&order=1" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=quasystellar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=chartreuse-dark&hide_border=true&order=2" style="flex: 1;">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quasystellar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=chartreuse-dark&hide_border=true&order=2" />
+  </a>
+</div>
