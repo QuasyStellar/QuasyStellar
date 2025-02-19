@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/QuasyStellar/QuasyStellar/blob/main/neoreadme.png?raw=true" alt="top image" width="100%" />
+  <img src="https://github.com/QuasyStellar/QuasyStellar/blob/main/neoreadme.gif?raw=true" alt="top image" width="100%" />
 </div>
 
 <div align="center">
