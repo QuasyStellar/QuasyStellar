@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/QuasyStellar/QuasyStellar/blob/main/neoreadme.gif?raw=true" alt="top image" width="100%" />
+  <img src="https://github.com/QuasyStellar/QuasyStellar/blob/main/neoreadme.gif?raw=true" alt="top image" width="98.5%" />
 </div>
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=quasystellar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=true&order=1">
